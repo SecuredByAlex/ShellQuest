@@ -22,7 +22,7 @@ The ShellQuest project aimed to create an interactive environment for practicing
 
 ## Steps
 
-#### SQL Questions and Instructions
+#### LINUX Questions and Instructions
 
 #### Basic-Level Questions
 
